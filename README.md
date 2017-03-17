@@ -1,2 +1,2 @@
 # MiStay---Book-hotel-room-by-hour
-MiStay allows booking hotel rooms in Delhi, Bangalore, Chennai, Delhi, Gurgaon, Hyderabad, Pune and Kolkata.
+Book hotel room and pay only for the hours you stay in [Bangalore](http://www.mistay.in/hotels-in-bangalore/), [Delhi](http://www.mistay.in/hotels-in-delhi/), [Mumbai](http://www.mistay.in/hotels-in-mumbai/), [Gurgaon](http://www.mistay.in/hotels-in-gurgaon/), [Chennai](http://www.mistay.in/hotels-in-chennai/), [Kolkata](http://www.mistay.in/hotels-in-kolkata/), [Hyderabad](http://www.mistay.in/hotels-in-hyderabad/), [Pune](http://www.mistay.in/hotels-in-pune/).
